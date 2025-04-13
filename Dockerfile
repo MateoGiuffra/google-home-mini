@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir flask
 EXPOSE 5000
 
 # Comando para correr la aplicación
-CMD ["python", "script.py"]
+CMD ["python", "script.pyw"]
